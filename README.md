@@ -1,5 +1,3 @@
-### Hi, I am Merve Karalı 👋👩‍🎓👩‍💻
-
 <!--
 **MerveKarali/MerveKarali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! 👋
+### Hi there! 👋 I'm Merve Karalı, an AI Researcher & Data Engineer based in Munich.
 
-I'm Merve, an AI Researcher & Data Engineer based in Munich. I hold an M.Sc. degree in Computer Science from the Technical University of Munich, specializing in the convergence of Deep Learning and Computer Vision.
+I hold an M.Sc. degree in Computer Science from the Technical University of Munich 🎓, where my passion lies in pushing the boundaries of Deep Learning and Computer Vision.
 
-🔭 Currently working on: Exploring novel applications of deep learning in computer vision.
+🔭 Currently, I'm immersed in exploring novel applications of deep learning in computer vision.
 
-🌱 Currently learning: Advanced techniques in unsupervised learning and model interpretability.
+🌱 Always on the quest for knowledge, I'm currently delving into advanced techniques in unsupervised learning and model interpretability.
 
-👯 Looking to collaborate on: Projects at the intersection of AI and innovative technologies.
+👯 I'm eager to collaborate on projects at the intersection of AI and innovative technologies.
 
-💻 Everything about me in my [website](https://mervekarali.com/) 
+💻 Everything about me is on my [website](https://mervekarali.com/).
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/merve-karali/) 
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/merve-karali/) to share ideas and insights!
 
 
 
